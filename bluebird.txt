@@ -1,4 +1,3 @@
-njknknkjnknkjnjkn
-$r = njnj
 
-fcgc
+$r = njnj;
+echo $r;
